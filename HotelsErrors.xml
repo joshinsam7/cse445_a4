@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel>
+    <Hotel Rating="4.2">
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <!-- Missing required attribute NearestAirport -->
+        <Address>
+            <Number>11</Number>
+            <Street>E 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Marriott</Name>
+        <!-- Phone is missing -->
+        <Address NearestAirport="Sky Harbor">
+            <Number>23</Number>
+            <Street>University Dr</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <!-- Two names for one hotel -->
+        <Name>Hilton</Name>
+        <Phone>602-555-1212</Phone>
+        <!-- No closing tag for Address -->
+        <Address NearestAirport="Phoenix Airport">
+            <Number>44</Number>
+            <Street>Main St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85001</Zip>
+    </Hotel>
+    <Hotel>
+        <!-- Two names for one hotel -->
+            <Name>Hilton</Name>
+            <Name>DuplicateName</Name>
+            <Phone>602-555-1212</Phone>
+            <Address NearestAirport="Phoenix Airport">
+                <Number>44</Number>
+                <Street>Main St</Street>
+                <City>Phoenix</City>
+                <State>AZ</State>
+                <Zip>85001</Zip>
+            </Address>
+    </Hotel>
+</Hotel>
