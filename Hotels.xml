@@ -5,9 +5,9 @@
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>11</Number>
-            <Street>E 7th St</Street>
+            <Street>E.7th St</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
@@ -18,7 +18,7 @@
     <Hotel>
         <Name>Hilton Garden Inn</Name>
         <Phone>480-968-2180</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>86</Number>
             <Street>S Rockford Dr</Street>
             <City>Tempe</City>
@@ -31,7 +31,7 @@
     <Hotel Rating="4.2">
         <Name>Homewood Suites</Name>
         <Phone>480-966-2780</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>66</Number>
             <Street>S Rockford Dr</Street>
             <City>Tempe</City>
@@ -44,7 +44,7 @@
     <Hotel>
         <Name>Fairfield Inn</Name>
         <Phone>520-536-8100</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>1929</Number>
             <Street>E 7th St</Street>
             <City>E Rio Salado Pkwy</City>
@@ -57,7 +57,7 @@
     <Hotel Rating="4.2">
         <Name>Charming Modern Tiny House in the heart of Tempe</Name>
         <Phone>602-576-5560</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>1620</Number>
             <Street>E Apache Boulevard</Street>
             <City>Tempe</City>
@@ -70,7 +70,7 @@
     <Hotel Rating="3.6">
         <Name>Red Roof PLUS</Name>
         <Phone>480-581-4940</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>2135</Number>
             <Street>W 15th St</Street>
             <City>Tempe</City>
@@ -83,7 +83,7 @@
     <Hotel Rating="4.1">
         <Name>Embassy Suites </Name>
         <Phone>480-897-7444</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>4400</Number>
             <Street>S Rural Rd</Street>
             <City>Tempe</City>
@@ -96,7 +96,7 @@
     <Hotel Rating="2.6">
         <Name>SureStay Plus Hotel </Name>
         <Phone>480-675-9799</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>1429</Number>
             <Street>N Scottsdale Rd</Street>
             <City>Tempe</City>
@@ -109,7 +109,7 @@
     <Hotel Rating="4.0">
         <Name>La Quinta Inn Suites</Name>
         <Phone>480-844-8747</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>902</Number>
             <Street>W Grove Ave</Street>
             <City>Tempe</City>
@@ -122,9 +122,21 @@
     <Hotel Rating="3.7">
         <Name>Holiday Inn Express</Name>
         <Phone>480-784-2233</Phone>
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>670</Number>
             <Street>N Scottsdale Rd</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+        </Address>
+    </Hotel>
+
+    <Hotel>
+        <Name>Hilton Garden Inn</Name>
+        <Phone>480-968-2180</Phone>
+        <Address NearstAirport="Sky Harbor">
+            <Number>86</Number>
+            <Street>S Rockford Dr</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>

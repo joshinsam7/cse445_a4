@@ -4,10 +4,10 @@
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
-        <!-- Missing required attribute NearestAirport -->
+        <!-- Missing required attribute NearstAirport -->
         <Address>
             <Number>11</Number>
-            <Street>E 7th St</Street>
+            <Street>E.7th St</Street>
             <City>Tempe</City>
             <State>AZ</State>
             <Zip>85281</Zip>
@@ -17,7 +17,7 @@
     <Hotel>
         <Name>Marriott</Name>
         <!-- Phone is missing -->
-        <Address NearestAirport="Sky Harbor">
+        <Address NearstAirport="Sky Harbor">
             <Number>23</Number>
             <Street>University Dr</Street>
             <City>Tempe</City>
@@ -31,7 +31,7 @@
         <Name>Hilton</Name>
         <Phone>602-555-1212</Phone>
         <!-- No closing tag for Address -->
-        <Address NearestAirport="Phoenix Airport">
+        <Address NearstAirport="Phoenix Airport">
             <Number>44</Number>
             <Street>Main St</Street>
             <City>Phoenix</City>
@@ -43,7 +43,7 @@
             <Name>Hilton</Name>
             <Name>DuplicateName</Name>
             <Phone>602-555-1212</Phone>
-            <Address NearestAirport="Phoenix Airport">
+            <Address NearstAirport="Phoenix Airport">
                 <Number>44</Number>
                 <Street>Main St</Street>
                 <City>Phoenix</City>
