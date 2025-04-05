@@ -15,7 +15,7 @@
     </Hotel>
     <!-- Hotel 2 -->
     
-    <Hotel Rating="4.2">
+    <Hotel>
         <Name>Hilton Garden Inn</Name>
         <Phone>480-968-2180</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -41,7 +41,7 @@
     </Hotel>
 
     <!-- Hotel 4 -->
-    <Hotel Rating="4.2">
+    <Hotel>
         <Name>Fairfield Inn</Name>
         <Phone>520-536-8100</Phone>
         <Address NearestAirport="Sky Harbor">
