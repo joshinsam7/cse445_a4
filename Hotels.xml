@@ -2,7 +2,6 @@
 <Hotels> 
     <Hotel Rating="4.2">
 
-    <!-- Hotel 1 -->
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-937-8461</Phone>
@@ -15,7 +14,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 2 -->
     <Hotel>
         <Name>Hilton Garden Inn</Name>
         <Phone>480-968-2180</Phone>
@@ -28,7 +26,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 3 -->
     <Hotel Rating="4.2">
         <Name>Homewood Suites</Name>
         <Phone>480-966-2780</Phone>
@@ -41,7 +38,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 4 -->
     <Hotel>
         <Name>Fairfield Inn</Name>
         <Phone>520-536-8100</Phone>
@@ -54,7 +50,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 5 -->
     <Hotel Rating="4.2">
         <Name>Charming Modern Tiny House in the heart of Tempe</Name>
         <Phone>602-576-5560</Phone>
@@ -67,7 +62,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 6 -->
     <Hotel Rating="3.6">
         <Name>Red Roof PLUS</Name>
         <Phone>480-581-4940</Phone>
@@ -80,7 +74,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 7 -->
     <Hotel Rating="4.1">
         <Name>Embassy Suites </Name>
         <Phone>480-897-7444</Phone>
@@ -93,7 +86,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 8 -->
     <Hotel Rating="2.6">
         <Name>SureStay Plus Hotel </Name>
         <Phone>480-675-9799</Phone>
@@ -106,7 +98,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 9 -->
     <Hotel Rating="4.0">
         <Name>La Quinta Inn Suites</Name>
         <Phone>480-844-8747</Phone>
@@ -119,7 +110,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 10 -->
     <Hotel Rating="3.7">
         <Name>Holiday Inn Express</Name>
         <Phone>480-784-2233</Phone>
@@ -132,7 +122,6 @@
         </Address>
     </Hotel>
 
-    <!-- Hotel 11 -->
     <Hotel>
         <Name>Hilton Garden Inn</Name>
         <Phone>480-968-2180</Phone>
